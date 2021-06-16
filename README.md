@@ -51,7 +51,7 @@ Nicky es una app en la cual te muestra el menú del restaurant, pero éste está
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Actualmente estoy trabajando en una app de bolsa de trabajo.
+- 🔭 Actualmente estoy trabajando en un proyecto personal que es en una app de bolsa de trabajo.
 - :computer: Amo Kotlin porque con una sola línea de código resuelves un gran problema.
 - 🤔 Estoy buscando trabajo como programador android.
 - 📫 Para contactarme, mándame un mail : jchocobar886@gmail.com
