@@ -5,7 +5,7 @@
 <br />
 
 #### Envíame un email
-[![Mail Badge](https://img.shields.io/badge/-jchocobar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jchocobar886@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-jchocobar886@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jchocobar886@gmail.com)
 
 #### Proyectos Realizados
 <br />
@@ -24,6 +24,14 @@
 ### Respuestas Rápidas
 
 [![Respuestas Badge](https://img.shields.io/badge/-RespuestasRapidas-r?style=flat&labelColor=r&link=https://play.google.com/store/apps/details?id=com.cuty.lodecurly)](https://github.com/josechocobar/RespuestasRapidas)
+![Kotlin Top](https://img.shields.io/badge/kotlin-100%25-blue)
+![Room Top](https://img.shields.io/badge/room-100%25-green)
+
+<br/>
+
+### Datos con QR
+
+[![Respuestas Badge](https://img.shields.io/badge/-DatosConQr-orange?style=flat&labelColor=r&link=https://play.google.com/store/apps/details?id=com.cuty.lodecurly)](https://github.com/josechocobar/DatosConQr)
 ![Kotlin Top](https://img.shields.io/badge/kotlin-100%25-blue)
 ![Room Top](https://img.shields.io/badge/room-100%25-green)
 
