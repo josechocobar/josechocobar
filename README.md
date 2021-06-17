@@ -10,7 +10,7 @@
 #### Proyectos Realizados
 <br />
 
-Chatbot : 
+### Chatbot : 
 
 [![Ibotchat Badge](https://img.shields.io/badge/-IbotchatApp-85fb61?style=flat&labelColor=85fb61&link=https://play.google.com/store/apps/details?id=com.cuty.yorespondbot&hl=es_AR&gl=US)](https://play.google.com/store/apps/details?id=com.cuty.yorespondbot&hl=es_AR&gl=US)
 ![Kotlin Top](https://img.shields.io/badge/kotlin-100%25-blue)
@@ -21,15 +21,24 @@ Chatbot :
 
 <br />
 
-App Restaurant: 
+### Respuestas Rápidas
+
+[![Respuestas Badge](https://img.shields.io/badge/-RespuestasRapidas-r?style=flat&labelColor=r&link=https://play.google.com/store/apps/details?id=com.cuty.lodecurly)](https://github.com/josechocobar/RespuestasRapidas)
+![Kotlin Top](https://img.shields.io/badge/kotlin-100%25-blue)
+![Room Top](https://img.shields.io/badge/room-100%25-green)
+
+<br/>
+
+### App Restaurant: 
 <br />
 
-[![Ibotchat Badge](https://img.shields.io/badge/-Restaurant-ff0000?style=flat&labelColor=ff0000&link=https://play.google.com/store/apps/details?id=com.cuty.lodecurly)](https://play.google.com/store/apps/details?id=com.cuty.lodecurly)
+[![Restaurant Badge](https://img.shields.io/badge/-Restaurant-ff0000?style=flat&labelColor=ff0000&link=https://play.google.com/store/apps/details?id=com.cuty.lodecurly)](https://play.google.com/store/apps/details?id=com.cuty.lodecurly)
 ![Kotlin Top](https://img.shields.io/badge/kotlin-100%25-blue)
 ![Room Top](https://img.shields.io/badge/room-100%25-green)
 
 <br />
-App Restaurant 2.0 :
+
+### App Restaurant 2.0 :
 Nicky es una app en la cual te muestra el menú del restaurant, pero éste está almacenado en la nube así que se pueden editar los ingredientes o agregar platos nuevos, modificar precios, etc.
 <br />
 
@@ -41,11 +50,13 @@ Nicky es una app en la cual te muestra el menú del restaurant, pero éste está
 
 [![NickyApi Badge](https://img.shields.io/badge/-ApiNicky-ff0080?style=flat&labelColor=ff0080&link=https://github.com/josechocobar/nickyapi)](https://github.com/josechocobar/nickyapi)
 ![Kotlin Top](https://img.shields.io/badge/Kotlin-100%25-blue)
-![MVVM Top](https://img.shields.io/badge/MVVM-100%25-violet)
+![MVVM Top](https://img.shields.io/badge/MVC-100%25-violet)
 ![spring Top](https://img.shields.io/badge/spring-100%25-green)
 ![Heroku Top](https://img.shields.io/badge/Heroku-100%25-black)
 
 <br />
+
+
 
 #### ¿Quien soy?
 
