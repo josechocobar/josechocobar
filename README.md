@@ -23,7 +23,7 @@
 
 ### Respuestas Rápidas
 
-[![Respuestas Badge](https://img.shields.io/badge/-RespuestasRapidas-r?style=flat&labelColor=r&link=https://play.google.com/store/apps/details?id=com.cuty.lodecurly)](https://github.com/josechocobar/RespuestasRapidas)
+[![Respuestas Badge](https://img.shields.io/badge/-RespuestasRapidas-r?style=flat&labelColor=r&link=https://play.google.com/store/apps/details?id=com.robchoco.respuestasrapidas)](https://play.google.com/store/apps/details?id=com.robchoco.respuestasrapidas)
 ![Kotlin Top](https://img.shields.io/badge/kotlin-100%25-blue)
 ![Room Top](https://img.shields.io/badge/room-100%25-green)
 
