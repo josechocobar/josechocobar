@@ -109,11 +109,9 @@ Nicky es una app en la cual te muestra el menú del restaurant, pero éste está
 
 <br >
 
-Me gusta todo lo que tiene que ver con tecnología, me gustan las computadoras y los drones, las ia. Me interesa muchísimo blockchain y los nft's. También me gusta mucho la física y la astronomía, Stephen Hawking, Yuval Harari. Actualmente estoy en un proyecto personal que se llama jobcamp.
+Me gusta todo lo que tiene que ver con tecnología, me gustan las computadoras y los drones, las ia. Me interesa muchísimo blockchain y los nft's. También me gusta leer sobre la física y la astronomía.
 
-#### ¿Qué es jobcamp?
 
-Jobcamp es un proyecto en el cual participamos 3 amigos. El proyecto tiene como prioridad ser una bolsa de trabajo dirigido a it y diseño gráfico. A medida que vayámos desarrollando la app se irán agregando más funcionalidades.
 
 
 #### Github Stats
