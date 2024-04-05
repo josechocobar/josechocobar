@@ -40,7 +40,7 @@
 ### App MyMovies: 
 <br />
 
-[![MyMovie Badge](https://img.shields.io/badge/-Restaurant-ff0000?style=flat&labelColor=ff0000&link=https://github.com/josechocobar/MyMovieApp)](https://github.com/josechocobar/MyMovieApp)
+[![MyMovie Badge](https://img.shields.io/badge/-MyMovie-ff0000?style=flat&labelColor=ff0000&link=https://github.com/josechocobar/MyMovieApp)](https://github.com/josechocobar/MyMovieApp)
 ![Kotlin Top](https://img.shields.io/badge/kotlin-100%25-blue)
 ![Room Top](https://img.shields.io/badge/room-100%25-green)
 
