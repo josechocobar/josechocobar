@@ -27,6 +27,8 @@
 ![Kotlin Top](https://img.shields.io/badge/kotlin-100%25-blue)
 ![Room Top](https://img.shields.io/badge/room-100%25-green)
 
+https://github.com/josechocobar/josechocobar/blob/main/Screen_recording_20261019_202248.webm
+
 <br/>
 
 ### Datos con QR
