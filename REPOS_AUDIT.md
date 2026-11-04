@@ -15,7 +15,8 @@ Objetivo: perfil competitivo para **Android Developer / SDET / QA Automation**.
 ## 🔒 YA PRIVADOS (ejecutado)
 aviso-legal, BirdNFT, editorDeStl, tera, vendimia-habita, korge-hello-world-master,
 SimpleNotepad, TATETI, Rob, Constraints, Mercadolibre, MoviesTrivia, ScreenRecorderPlusX,
-ChocoCity, appTragos, reactiveKotlin, springsecurity-login.
+ChocoCity, appTragos, reactiveKotlin, springsecurity-login, NickyApp, nickyapi,
+MyMovieApp, DatosConQr, android-kotlin-login-facebook.
 
 ## 📦 FORKS PÚBLICOS ARCHIVADOS (no se pueden privatizar; quedan archivados)
 ScreenStream, android-kotlin-loginfacebook, compose-jb. (GitHub no permite privatizar forks públicos.)
