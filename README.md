@@ -85,6 +85,12 @@ Apps publicadas en Google Play (Kotlin/Java, MVVM, Room, Retrofit, Koin, signing
 - 🛒 Ayudé a un amigo a lanzar **[gurrutienda.netlify.app](https://gurrutienda.netlify.app)** (tienda online).
 - 🤖 Participación activa en eventos de **AI y Blockchain** de la comunidad de Salta: hackatones y meetups.
 
+### 🎨 Hobbies & Intereses
+
+- 🖨️ **Impresión 3D** y diseño de piezas.
+- 🛠️ **Mini tools para uso diario** (automatizaciones y utilidades propias).
+- 🌱 **Hidroponía** y cultivo.
+
 ---
 
 ### 🎓 Formación
