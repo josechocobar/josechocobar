@@ -1,0 +1,10 @@
+# Binarios / assets pesados
+*.webm
+*.mp4
+*.apk
+*.jar
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
