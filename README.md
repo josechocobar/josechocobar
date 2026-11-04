@@ -57,15 +57,10 @@ Me muevo cómodo entre el desarrollo de apps (Kotlin, MVVM, Room, Retrofit, Koin
 
 | Proyecto | Descripción | Tech |
 |---|---|---|
-| [**respuestasRapidasAppium**](https://github.com/josechocobar/respuestasRapidasAppium) | Framework E2E mobile production‑grade con Page Object Model, strict TypeScript, SDD (User Story → Gherkin → Test Plan → Code). | Appium 2 · WebDriverIO 8 · TypeScript · Mocha |
-| [**NickyApp**](https://github.com/josechocobar/NickyApp) | App Android para restaurantes (menú en la nube, editable). | Kotlin · MVVM · Room · Retrofit |
-| [**nickyapi**](https://github.com/josechocobar/nickyapi) | API REST para NickyApp. | Kotlin · Spring Boot · Heroku |
-| [**MyMovieApp**](https://github.com/josechocobar/MyMovieApp) | App de películas con persistencia local. | Kotlin · Room · Retrofit |
-| [**DatosConQr**](https://github.com/josechocobar/DatosConQr) | App Android con gestión de datos y QR. | Kotlin · Room |
-| [**android‑kotlin‑login‑facebook**](https://github.com/josechocobar/android-kotlin-login-facebook) | Login con Facebook SDK en Android. | Kotlin · Facebook SDK |
-| [**Respuestas Rápidas**](https://play.google.com/store/apps/details?id=com.robchoco.respuestasrapidas&hl=es_AR) | App Android publicada en Google Play (actualizada a Android moderno). | Kotlin · Room |
+| [**respuestasRapidasAppium**](https://github.com/josechocobar/respuestasRapidasAppium) | Framework E2E mobile production‑grade: Appium 2 + WebDriverIO 8 + TypeScript strict, Page Object Model, SDD (User Story → Gherkin → Test Plan → Code), ESLint/Prettier, branching dev/prod. | Appium 2 · WebDriverIO 8 · TypeScript · Mocha |
+| [**Respuestas Rápidas**](https://play.google.com/store/apps/details?id=com.robchoco.respuestasrapidas&hl=es_AR) | 📱 App Android **publicada en Google Play**, actualizada a Android moderno. Suite de respuestas rápidas para WhatsApp/Telegram con persistencia local. | Kotlin · Room · Google Play |
 
-> 📌 Más proyectos Android (stock, trivias, utilidades) en mi perfil. Próximamente: migración a Jetpack Compose + Hilt + tests.
+> 📌 Enfocado en automatización mobile (Appium/SDET) y en la app publicada "Respuestas Rápidas". Próximamente: Playwright + Python + CI/CD.
 
 ---
 
@@ -86,26 +81,13 @@ Apps publicadas en Google Play (Kotlin/Java, MVVM, Room, Retrofit, Koin, signing
 
 ---
 
-### 📄 CV y contacto
+### 📄 Contacto
 
-- 📎 [CV (PDF)](https://github.com/josechocobar/josechocobar/blob/main/cv_jose_chocobar.pdf)
 - 📧 jchocobar886@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/josé-chocobar-242735162/)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josechocobar&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josechocobar&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌐 English summary
 
 Android & SDET engineer: Kotlin/Android (MVVM, Room, Retrofit, Koin) plus mobile test automation with Appium 2 + WebDriverIO + TypeScript (POM, strict typing, SDD). Backend experience with Spring Boot. Open to Android Developer, SDET and QA Automation roles (remote/hybrid). Contact: jchocobar886@gmail.com.
-
----
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=josechocobar.josechocobar)
