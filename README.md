@@ -7,21 +7,23 @@ Salta, Argentina · Abierto a oportunidades remotas / híbridas · Open to remot
 [![Email](https://img.shields.io/badge/Email-jchocobar886%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jchocobar886@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-josechocobar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josechocobar)
 
-**Languages / Idiomas:** [🇪🇸 Español](#-español) · [🇬🇧 English](#-english)
+**Languages / Idiomas:** [🇪🇸 Español](#español) · [🇬🇧 English](#english)
 
 ---
+
+<a name="español"></a>
 
 ## 🇪🇸 Español
 
 ### 🎯 Sobre mí
 
-Desarrollador Android nativo con experiencia en producción (2018‑2021) y foco actual en **automatización mobile (Appium/SDET)**.
+Desarrollador Android nativo y SDET con experiencia en producción desde 2018 y foco actual en **automatización mobile (Appium/SDET)**.
 Me muevo cómodo entre el desarrollo de apps (Kotlin, MVVM, Room, Retrofit, Koin) y el aseguramiento de calidad (Page Object Model, E2E, CI/CD, Playwright/Appium). También tengo experiencia en backends con Spring Boot y despliegues en Linux/Docker.
 
 - 🔭 Actualmente: Android Developer en Oil & Gas + SDET con experiencia en streaming LATAM.
 - 🧪 SDET: Appium 2 + WebDriverIO + TypeScript (strict), POM, SDD, ESLint/Prettier.
 - 📱 Android: Kotlin, MVVM, Clean Architecture, Coroutines/Flow, Hilt/Koin, Room, Retrofit.
-- 🌱 Aprendiendo: Jetpack Compose, Playwright, Python, CI/CD con GitHub Actions.
+- 🌱 Profundizando: Jetpack Compose, Hilt, modularización y arquitectura Clean.
 - 🗣️ Inglés: cursando profesorado (mejora continua).
 - 📫 Contacto: jchocobar886@gmail.com
 
@@ -44,7 +46,7 @@ Me muevo cómodo entre el desarrollo de apps (Kotlin, MVVM, Room, Retrofit, Koin
 | [**Respuestas Rápidas**](https://play.google.com/store/apps/details?id=com.robchoco.respuestasrapidas&hl=es_AR) | 📱 App Android **publicada en Google Play**, actualizada a Android moderno. Suite de respuestas rápidas para WhatsApp/Telegram con persistencia local. | Kotlin · MVVM · Coroutines/Flow · Room · Retrofit · Koin · Google Play |
 | [**AIDevelopWorkflow**](https://github.com/josechocobar/AIDevelopWorkflow) | Workflow de desarrollo asistido por IA (specs, gherkin, planes, agentes). | AI · SDD · Agents |
 
-> 📌 Enfocado en automatización mobile (Appium/SDET) y en la app publicada "Respuestas Rápidas". Próximamente: Playwright + Python + CI/CD.
+> 📌 Enfocado en automatización mobile (Appium/SDET) y en la app publicada "Respuestas Rápidas". Próximamente: repo Playwright web E2E + CI/CD en apps Android.
 
 ### 🤖 AI Develop Workflow
 
@@ -85,17 +87,19 @@ Apps publicadas en Google Play (Kotlin/Java, MVVM, Room, Retrofit, Koin, signing
 
 ---
 
+<a name="english"></a>
+
 ## 🇬🇧 English
 
 ### 🎯 About me
 
-Native Android developer with production experience (2018‑2021) and current focus on **mobile automation (Appium/SDET)**.
+Native Android developer and SDET with production experience since 2018 and current focus on **mobile automation (Appium/SDET)**.
 Comfortable moving between app development (Kotlin, MVVM, Room, Retrofit, Koin) and quality assurance (Page Object Model, E2E, CI/CD, Playwright/Appium). Backend experience with Spring Boot and Linux/Docker deployments.
 
 - 🔭 Currently: Android Developer in Oil & Gas + SDET with streaming LATAM experience.
 - 🧪 SDET: Appium 2 + WebDriverIO + TypeScript (strict), POM, SDD, ESLint/Prettier.
 - 📱 Android: Kotlin, MVVM, Clean Architecture, Coroutines/Flow, Hilt/Koin, Room, Retrofit.
-- 🌱 Learning: Jetpack Compose, Playwright, Python, CI/CD with GitHub Actions.
+- 🌱 Deepening: Jetpack Compose, Hilt, modularization and Clean Architecture.
 - 🗣️ English: studying teaching degree (continuous improvement).
 - 📫 Contact: jchocobar886@gmail.com
 
@@ -118,7 +122,7 @@ Comfortable moving between app development (Kotlin, MVVM, Room, Retrofit, Koin) 
 | [**Respuestas Rápidas**](https://play.google.com/store/apps/details?id=com.robchoco.respuestasrapidas&hl=es_AR) | 📱 Android app **published on Google Play**, updated to modern Android. Quick replies for WhatsApp/Telegram with local persistence. | Kotlin · MVVM · Coroutines/Flow · Room · Retrofit · Koin · Google Play |
 | [**AIDevelopWorkflow**](https://github.com/josechocobar/AIDevelopWorkflow) | AI‑assisted development workflow (specs, gherkin, plans, agents). | AI · SDD · Agents |
 
-> 📌 Focused on mobile automation (Appium/SDET) and the published "Respuestas Rápidas" app. Coming next: Playwright + Python + CI/CD.
+> 📌 Focused on mobile automation (Appium/SDET) and the published "Respuestas Rápidas" app. Coming next: Playwright web E2E repo + CI/CD on Android apps.
 
 ### 🤖 AI Develop Workflow
 
