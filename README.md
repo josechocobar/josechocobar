@@ -14,7 +14,7 @@ Salta, Argentina · Abierto a oportunidades remotas / híbridas
 Desarrollador Android nativo con experiencia en producción (2018‑2021) y foco actual en **automatización mobile (Appium/SDET)**.  
 Me muevo cómodo entre el desarrollo de apps (Kotlin, MVVM, Room, Retrofit, Koin) y el aseguramiento de calidad (Page Object Model, E2E, CI/CD, Playwright/Appium). También tengo experiencia en backends con Spring Boot y despliegues en Linux/Docker.
 
-- 🔭 Actualmente: construyendo suites de automatización mobile y mejorando mis apps Android.
+- 🔭 Actualmente: Android Developer en Oil & Gas + SDET con experiencia en streaming LATAM.
 - 🧪 SDET: Appium 2 + WebDriverIO + TypeScript (strict), POM, SDD, ESLint/Prettier.
 - 📱 Android: Kotlin, MVVM, Clean Architecture, Coroutines/Flow, Hilt/Koin, Room, Retrofit.
 - 🌱 Aprendiendo: Jetpack Compose, Playwright, Python, CI/CD con GitHub Actions.
@@ -66,6 +66,12 @@ Me muevo cómodo entre el desarrollo de apps (Kotlin, MVVM, Room, Retrofit, Koin
 
 ### 💼 Experiencia
 
+**Android Developer** — Empresa Oil & Gas · 2026 – Actualidad  
+Apps Android nativas para operación en campo: Kotlin, Jetpack Compose, MVVM, Clean Architecture, Coroutines/Flow, Hilt, Room, Retrofit, Appium (E2E), CI/CD con GitHub Actions.
+
+**QA Automation / SDET** — Empresa de streaming (LATAM) · 2021 – 2025  
+Automatización E2E y backend: Playwright, Appium, Python, TypeScript, WebDriverIO, POM, pruebas funcionales/integración/regresión, BrowserStack, pipelines CI/CD, reportes Allure, APIs REST.
+
 **Programador Android (Remoto)** — Ibotchat · Ago 2020 – May 2021  
 Apps Android nativas + web, bots con Dialogflow, APIs REST en Spring, Docker, Linux.
 
@@ -90,4 +96,4 @@ Apps publicadas en Google Play (Kotlin/Java, MVVM, Room, Retrofit, Koin, signing
 
 ### 🌐 English summary
 
-Android & SDET engineer: Kotlin/Android (MVVM, Room, Retrofit, Koin) plus mobile test automation with Appium 2 + WebDriverIO + TypeScript (POM, strict typing, SDD). Backend experience with Spring Boot. Open to Android Developer, SDET and QA Automation roles (remote/hybrid). Contact: jchocobar886@gmail.com.
+Android & SDET engineer: 4+ years QA Automation/SDET in streaming (Playwright, Appium, Python, TypeScript, CI/CD, backend testing) and Android Developer in Oil & Gas (Kotlin, Jetpack Compose, Hilt, Appium). Mobile test automation with Appium 2 + WebDriverIO + TypeScript (POM, strict typing, SDD). Open to Android Developer, SDET and QA Automation roles (remote/hybrid). Contact: jchocobar886@gmail.com.
