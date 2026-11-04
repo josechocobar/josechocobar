@@ -58,7 +58,7 @@ Me muevo cómodo entre el desarrollo de apps (Kotlin, MVVM, Room, Retrofit, Koin
 | Proyecto | Descripción | Tech |
 |---|---|---|
 | [**respuestasRapidasAppium**](https://github.com/josechocobar/respuestasRapidasAppium) | Framework E2E mobile production‑grade: Appium 2 + WebDriverIO 8 + TypeScript strict, Page Object Model, SDD (User Story → Gherkin → Test Plan → Code), ESLint/Prettier, branching dev/prod. | Appium 2 · WebDriverIO 8 · TypeScript · Mocha |
-| [**Respuestas Rápidas**](https://play.google.com/store/apps/details?id=com.robchoco.respuestasrapidas&hl=es_AR) | 📱 App Android **publicada en Google Play**, actualizada a Android moderno. Suite de respuestas rápidas para WhatsApp/Telegram con persistencia local. | Kotlin · Room · Google Play |
+| [**Respuestas Rápidas**](https://play.google.com/store/apps/details?id=com.robchoco.respuestasrapidas&hl=es_AR) | 📱 App Android **publicada en Google Play**, actualizada a Android moderno. Suite de respuestas rápidas para WhatsApp/Telegram con persistencia local. | Kotlin · MVVM · Coroutines/Flow · Room · Retrofit · Koin · Google Play |
 | [**AIDevelopWorkflow**](https://github.com/josechocobar/AIDevelopWorkflow) | Workflow de desarrollo asistido por IA (specs, gherkin, planes, agentes). | AI · SDD · Agents |
 
 > 📌 Enfocado en automatización mobile (Appium/SDET) y en la app publicada "Respuestas Rápidas". Próximamente: Playwright + Python + CI/CD.
