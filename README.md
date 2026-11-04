@@ -23,7 +23,7 @@ Me muevo cómodo entre el desarrollo de apps (Kotlin, MVVM, Room, Retrofit, Koin
 - 🔭 Actualmente: Android Developer en Oil & Gas + SDET con experiencia en streaming LATAM.
 - 🧪 SDET: Appium 2 + WebDriverIO + TypeScript (strict), POM, SDD, ESLint/Prettier.
 - 📱 Android: Kotlin, MVVM, Clean Architecture, Coroutines/Flow, Hilt/Koin, Room, Retrofit.
-- 🌱 Profundizando: AWS, cloud, Docker, CI/CD y arquitectura escalable.
+- 🌱 Profundizando: AWS.
 - 🗣️ Inglés: cursando profesorado (mejora continua).
 - 📫 Contacto: jchocobar886@gmail.com
 
@@ -99,7 +99,7 @@ Comfortable moving between app development (Kotlin, MVVM, Room, Retrofit, Koin) 
 - 🔭 Currently: Android Developer in Oil & Gas + SDET with streaming LATAM experience.
 - 🧪 SDET: Appium 2 + WebDriverIO + TypeScript (strict), POM, SDD, ESLint/Prettier.
 - 📱 Android: Kotlin, MVVM, Clean Architecture, Coroutines/Flow, Hilt/Koin, Room, Retrofit.
-- 🌱 Deepening: AWS, cloud, Docker, CI/CD and scalable architecture.
+- 🌱 Deepening: AWS.
 - 🗣️ English: studying teaching degree (continuous improvement).
 - 📫 Contact: jchocobar886@gmail.com
 
