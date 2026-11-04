@@ -80,6 +80,13 @@ Apps publicadas en Google Play (Kotlin/Java, MVVM, Room, Retrofit, Koin, signing
 
 ---
 
+### 🌐 Comunidad & Open Source
+
+- 🛒 Ayudé a un amigo a lanzar **[gurrutienda.netlify.app](https://gurrutienda.netlify.app)** (tienda online).
+- 🤖 Participación activa en eventos de **AI y Blockchain** de la comunidad de Salta: hackatones y meetups.
+
+---
+
 ### 🎓 Formación
 
 - Ingeniería en Telecomunicaciones — UCaSal, Salta (sin terminar, 2011).
@@ -96,4 +103,4 @@ Apps publicadas en Google Play (Kotlin/Java, MVVM, Room, Retrofit, Koin, signing
 
 ### 🌐 English summary
 
-Android & SDET engineer: 4+ years QA Automation/SDET in streaming (Playwright, Appium, Python, TypeScript, CI/CD, backend testing) and Android Developer in Oil & Gas (Kotlin, Jetpack Compose, Hilt, Appium). Mobile test automation with Appium 2 + WebDriverIO + TypeScript (POM, strict typing, SDD). Open to Android Developer, SDET and QA Automation roles (remote/hybrid). Contact: jchocobar886@gmail.com.
+Android & SDET engineer: 4+ years QA Automation/SDET in streaming (Playwright, Appium, Python, TypeScript, CI/CD, backend testing) and Android Developer in Oil & Gas (Kotlin, Jetpack Compose, Hilt, Appium). Mobile test automation with Appium 2 + WebDriverIO + TypeScript (POM, strict typing, SDD). Active in AI/Blockchain community events (Salta) and helped launch gurrutienda.netlify.app. Open to Android Developer, SDET and QA Automation roles (remote/hybrid). Contact: jchocobar886@gmail.com.

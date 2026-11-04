@@ -5,8 +5,16 @@
 *.jar
 *.pdf
 
+# Dependencias / builds
+node_modules/
+dist/
+build/
+.next/
+
+# Entorno
+.env
+.env.*
+
 # OS
 .DS_Store
 Thumbs.db
-SKILLS_RRHH.md
-REPOS_AUDIT.md
