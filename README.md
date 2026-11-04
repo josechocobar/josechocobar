@@ -59,6 +59,7 @@ Me muevo cómodo entre el desarrollo de apps (Kotlin, MVVM, Room, Retrofit, Koin
 |---|---|---|
 | [**respuestasRapidasAppium**](https://github.com/josechocobar/respuestasRapidasAppium) | Framework E2E mobile production‑grade: Appium 2 + WebDriverIO 8 + TypeScript strict, Page Object Model, SDD (User Story → Gherkin → Test Plan → Code), ESLint/Prettier, branching dev/prod. | Appium 2 · WebDriverIO 8 · TypeScript · Mocha |
 | [**Respuestas Rápidas**](https://play.google.com/store/apps/details?id=com.robchoco.respuestasrapidas&hl=es_AR) | 📱 App Android **publicada en Google Play**, actualizada a Android moderno. Suite de respuestas rápidas para WhatsApp/Telegram con persistencia local. | Kotlin · Room · Google Play |
+| [**AIDevelopWorkflow**](https://github.com/josechocobar/AIDevelopWorkflow) | Workflow de desarrollo asistido por IA (specs, gherkin, planes, agentes). | AI · SDD · Agents |
 
 > 📌 Enfocado en automatización mobile (Appium/SDET) y en la app publicada "Respuestas Rápidas". Próximamente: Playwright + Python + CI/CD.
 
@@ -77,6 +78,15 @@ Apps Android nativas + web, bots con Dialogflow, APIs REST en Spring, Docker, Li
 
 **Programador Android (Freelance)** — 2018 – 2021  
 Apps publicadas en Google Play (Kotlin/Java, MVVM, Room, Retrofit, Koin, signing & deploy).
+
+---
+
+### 🤖 AI Develop Workflow
+
+[![AIDevelopWorkflow](https://img.shields.io/badge/AIDevelopWorkflow-AI%20Assisted-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josechocobar/AIDevelopWorkflow)
+
+Durante el último año trabajé con **0 codeo a mano**: desarrollo asistido por IA (specs, gherkin, planes de test, código generado y revisado por agentes), manteniendo calidad con linting, testing y SDD.  
+Repo: [josechocobar/AIDevelopWorkflow](https://github.com/josechocobar/AIDevelopWorkflow)
 
 ---
 
