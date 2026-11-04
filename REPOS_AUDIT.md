@@ -12,29 +12,17 @@ Objetivo: perfil competitivo para **Android Developer / SDET / QA Automation**.
 | DatosConQr | Android, Room, QR. |
 | android-kotlin-login-facebook | Android auth (Facebook SDK). |
 
-## 🔒 PASAR A PRIVADO / ARCHIVAR (no aportan o son ruido)
-| Repo | Motivo |
-|---|---|
-| ScreenStream | Fork de terceros. |
-| android-kotlin-loginfacebook | Fork duplicado de tu propio android-kotlin-login-facebook. |
-| compose-jb | Fork de JetBrains (102 MB). |
-| aviso-legal | Solo aviso legal, no código. |
-| BirdNFT | NFT/Web3, no relevante para Android/SDET. |
-| editorDeStl | Python/3D, no relevante. |
-| tera | Blockchain/NFT (Hardhat), no relevante. |
-| vendimia-habita | Web (Next.js) vitivinícola, no relevante. |
-| korge-hello-world-master | Template hello world, no aporta. |
-| SimpleNotepad | Trivial, sin README. |
-| TATETI | Juego simple, sin README. |
-| Rob | Trivial, sin README. |
-| Constraints | 604 MB (binarios), sin README. Archivar o limpiar. |
-| Mercadolibre | Sin README, binarios (jar/mp4/log) 7 MB. Actualizar o privar. |
-| MoviesTrivia | Con README pero incluye APK (11 MB). Limpiar binario. |
-| ScreenRecorderPlusX | Sin README. |
-| ChocoCity | Sin README. |
-| appTragos | Sin README. |
-| reactiveKotlin | Sin README. |
-| springsecurity-login | Sin README (solo pom). |
+## 🔒 YA PRIVADOS (ejecutado)
+aviso-legal, BirdNFT, editorDeStl, tera, vendimia-habita, korge-hello-world-master,
+SimpleNotepad, TATETI, Rob, Constraints, Mercadolibre, MoviesTrivia, ScreenRecorderPlusX,
+ChocoCity, appTragos, reactiveKotlin, springsecurity-login.
+
+## 📦 FORKS PÚBLICOS ARCHIVADOS (no se pueden privatizar; quedan archivados)
+ScreenStream, android-kotlin-loginfacebook, compose-jb. (GitHub no permite privatizar forks públicos.)
+
+## 🛠️ ACTUALIZAR (agregar README + arquitectura + tests)
+Aplicar a los 6 repos estrella (MyMovieApp, NickyApp, nickyapi, DatosConQr,
+android-kotlin-login-facebook, respuestasRapidasAppium).
 
 ## 🛠️ ACTUALIZAR (agregar README + arquitectura + tests)
 Aplicar a: MyMovieApp, NickyApp, nickyapi, DatosConQr, android-kotlin-login-facebook,
