@@ -63,6 +63,7 @@ Me muevo cómodo entre el desarrollo de apps (Kotlin, MVVM, Room, Retrofit, Koin
 | [**MyMovieApp**](https://github.com/josechocobar/MyMovieApp) | App de películas con persistencia local. | Kotlin · Room · Retrofit |
 | [**DatosConQr**](https://github.com/josechocobar/DatosConQr) | App Android con gestión de datos y QR. | Kotlin · Room |
 | [**android‑kotlin‑login‑facebook**](https://github.com/josechocobar/android-kotlin-login-facebook) | Login con Facebook SDK en Android. | Kotlin · Facebook SDK |
+| [**Respuestas Rápidas**](https://play.google.com/store/apps/details?id=com.robchoco.respuestasrapidas&hl=es_AR) | App Android publicada en Google Play (actualizada a Android moderno). | Kotlin · Room |
 
 > 📌 Más proyectos Android (stock, trivias, utilidades) en mi perfil. Próximamente: migración a Jetpack Compose + Hilt + tests.
 
