@@ -46,13 +46,13 @@ Fuentes analizadas (LinkedIn, Argentina, 2026):
 | Room/SQLite | ✅ | — |
 | Unit/UI testing (JUnit/Mockk/Espresso/Compose) | ❌ Sin tests en repos | Alto |
 | Modularización | ❌ | Alto |
-| Appium | ✅ respuestasRapidasAppium | — |
+| Appium | ✅ respuestasRapidasAppium + experiencia SDET | — |
 | WebDriverIO / TypeScript strict | ✅ | — |
 | POM + SDD | ✅ | — |
-| Playwright | ❌ | Alto (pedido en jobs) |
-| Python | ❌ | Alto (pedido en jobs) |
-| BrowserStack | ❌ | Medio |
-| CI/CD (GitHub Actions) | ❌ | Alto |
+| Playwright | ✅ experiencia SDET (streaming) | — |
+| Python | ✅ experiencia SDET (streaming) | — |
+| BrowserStack | ✅ experiencia SDET (streaming) | — |
+| CI/CD (GitHub Actions) | ✅ experiencia SDET (streaming) | — |
 | Spring Boot backend | ✅ nickyapi | — |
 | Docker / Linux | ✅ CV | — |
 | Banca/fintech | ❌ | Opcional |
