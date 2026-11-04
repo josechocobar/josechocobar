@@ -119,4 +119,4 @@ Repo: [josechocobar/AIDevelopWorkflow](https://github.com/josechocobar/AIDevelop
 
 ### 🌐 English summary
 
-Android & SDET engineer: 4+ years QA Automation/SDET in streaming (Playwright, Appium, Python, TypeScript, CI/CD, backend testing) and Android Developer in Oil & Gas (Kotlin, Jetpack Compose, Hilt, Appium). Mobile test automation with Appium 2 + WebDriverIO + TypeScript (POM, strict typing, SDD). Active in AI/Blockchain community events (Salta) and helped launch gurrutienda.netlify.app. Open to Android Developer, SDET and QA Automation roles (remote/hybrid). Contact: jchocobar886@gmail.com.
+Android & SDET engineer: 4+ years QA Automation/SDET in streaming (Playwright, Appium, Python, TypeScript, CI/CD, backend testing) and Android Developer in Oil & Gas (Kotlin, Jetpack Compose, Hilt, Appium). Mobile test automation with Appium 2 + WebDriverIO + TypeScript (POM, strict typing, SDD). AI-assisted development (0 manual coding) via AIDevelopWorkflow. Active in AI/Blockchain community events (Salta) and helped launch gurrutienda.netlify.app. Open to Android Developer, SDET and QA Automation roles (remote/hybrid). Contact: jchocobar886@gmail.com.
